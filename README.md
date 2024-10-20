@@ -12,7 +12,7 @@ cd remove_duplicate_url
 <h3>Usage Example</h3>
 <ul>
     <li><strong>Python Script</strong>:
-        <pre>python3 remove_duplicate_url/remove.py</pre>
+        <pre>python3 remove.py</pre>
     </li>
 </ul>
 
